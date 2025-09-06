@@ -13,4 +13,4 @@ I'm a Year 13 student and this repository will show you my attempt to analyse th
 If you want to follow along or share advice, feel free to connect with me!  
 
 - GitHub: [Tharun9994Life](https://github.com/Tharun9994Life)
-- LinkedIn: [Tharun Nadeswaran](www.linkedin.com/in/tharun-nadeswaran-511a6a359)  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/tharun-nadeswaran-511a6a359)
