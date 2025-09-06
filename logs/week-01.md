@@ -15,4 +15,4 @@
 - Implement a Simple Moving Average function
 
 ## Code
-- [Version 1](.version/week-01/)
+- [Version 1](https://github.com/Tharun9994Life/Stock-Data-Analyst/tree/main/version/week-01)
