@@ -13,3 +13,6 @@
 
 ## Next Goals
 - Implement a Simple Moving Average function
+
+## Code
+-[Version 1](.version/week-01/)
