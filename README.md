@@ -1,6 +1,16 @@
 # Stock-Data-Analyst
-I'm a Year 13 student, attempting to analyse stock data. I will be learning more advanced python techniques, such as pandas, numpy, OOP and matplotlib.
 
-Currently, I have used the yfinance library in python to fetch stock data, such as close prices or volumes. I have also created a function that can calculate the percentage returns gained from a stock.
+I'm a Year 13 student and this repository will show you my attempt to analyse the stock market. 
 
-Next week, I aim to implement a Simple Moving Average function that will highlight the trend of close prices.
+## Goals
+- Learn OOP in python
+- Be familiar with numpy, matplotlib and pandas
+- Strengthen problem-solving skills
+- Build a tool that analyses the stock market
+- Share my progress openly
+
+## Connect
+If you want to follow along or share advice, feel free to connect with me!  
+
+- GitHub: [Tharun9994Life](https://github.com/Tharun9994Life)
+- LinkedIn: [Tharun Nadeswaran](www.linkedin.com/in/tharun-nadeswaran-511a6a359)  
