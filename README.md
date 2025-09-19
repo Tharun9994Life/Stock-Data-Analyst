@@ -3,7 +3,7 @@
 I'm a Year 13 student and this repository will show you my attempt to analyse the stock market. 
 
 ## Goals
-- Learn OOP in python
+- Learn OOP in Python
 - Be familiar with numpy, matplotlib and pandas
 - Strengthen problem-solving skills
 - Build a tool that analyses the stock market
